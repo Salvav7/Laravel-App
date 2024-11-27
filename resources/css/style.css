@@ -1,0 +1,14 @@
+
+header, footer {
+    background-color: #699bc9;
+    color: #ffffff;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+}
+
