@@ -34,6 +34,12 @@
                     <li class="nav-item">
                         <a class="nav-link text-dark" href="{{ url('/citas') }}">Citas</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="{{ url('/historial_medico') }}">Historial Médico</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="{{ url('/adopciones') }}">Adopta</a>
+                    </li>
                 </ul>
             </div>
         </div>
